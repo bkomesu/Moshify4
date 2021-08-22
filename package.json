@@ -19,5 +19,6 @@
   "homepage": "https://github.com/bkomesu/moshify_rk#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
-  }
+  },
+  "build": {"parcel build index.html"}
 }
