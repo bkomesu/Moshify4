@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bkomesu/moshify_rk#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.3"
   }
 }
